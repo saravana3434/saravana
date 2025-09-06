@@ -7,7 +7,7 @@
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
     header { background: #003366; color: white; padding: 20px 40px; text-align: center; }
-    section { padding: 40px; max-width: 900px; margin: auto; }
+    section { padding: 40px; max-width: 900px; margin: auto; 
     h2 { color: #003366; margin-bottom: 10px; }
     ul { list-style-type: square; padding-left: 20px; }
     .skills span { background: #e6f0ff; padding: 6px 12px; margin: 5px; display: inline-block; border-radius: 6px; }
@@ -17,7 +17,7 @@
 <body>
   <header>
     <h1>N.Saravana Kumar</h1>
-    <p>Biomedical Engineering Student | Medical Devices | Healthcare Innovation</p>
+    <p>Biomedical Engineering Student</p>
   </header>
 
   <section>
@@ -27,7 +27,7 @@
 
   <section>
     <h2>Education</h2>
-    <p><b>B.E in Biomedical Engineering</b> – [P.S.R.Engineering college], [2022 – 2026]</p>
+    <p><b>B.E in Biomedical Engineering</b> – P.S.R.Engineering college,2022 – 2026</p>
     <p>Relevant Coursework: Human Physiology, Biomaterials, Diagnostic and therapeutic equipment, Biomedical Instrumentation</p>
   </section>
 
@@ -56,14 +56,14 @@
   <section>
     <h2>Internship / Research</h2>
     <ul>
-      <li>Internship at [Vadamaiyan hospital]: Assisted in biomedical equipment calibration & testing.</li>
+      <li>Internship at Vadamaiyan hospital: Assisted in biomedical equipment calibration & testing.</li>
       <li>Research on biomaterials for wound healing applications.</li>
     </ul>
   </section>
 
   <section>
     <h2>Contact</h2>
-    <p>Email: [saravana3401@gmail.com]</p>
+    <p>Email: saravana3401@gmail.com</p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/saravana-kumar-064326327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">Your LinkedIn</a></p>
     <p>GitHub: <a href="https://github.com/saravana3434/saravana-kumar">Your GitHub</a></p>
   </section>
